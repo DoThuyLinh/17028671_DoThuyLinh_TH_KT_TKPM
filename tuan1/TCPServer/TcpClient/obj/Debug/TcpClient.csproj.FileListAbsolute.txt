@@ -1,0 +1,11 @@
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\bin\Debug\TcpClient.exe.config
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\bin\Debug\TcpClient.exe
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\bin\Debug\TcpClient.pdb
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\bin\Debug\SimpleTCP.dll
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.csprojAssemblyReference.cache
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.Properties.Resources.resources
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.csproj.GenerateResource.cache
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.csproj.CopyComplete
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.exe
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.pdb
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpClient\obj\Debug\TcpClient.Client.resources

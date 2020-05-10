@@ -1,0 +1,11 @@
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\bin\Debug\TcpServer.exe.config
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\bin\Debug\TcpServer.exe
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\bin\Debug\TcpServer.pdb
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\bin\Debug\SimpleTCP.dll
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.Server.resources
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.Properties.Resources.resources
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.csproj.GenerateResource.cache
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.exe
+D:\study\HK6\KTTK_PM\BaiTap\thuchanh\tuan1\TCPServer\TcpServer\obj\Debug\TcpServer.pdb
